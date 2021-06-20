@@ -17,3 +17,16 @@ All the models are trained on MNIST as the source domain and evaluated on the SV
 ## Acknowledgements
 
 [ML-GDE](https://developers.google.com/programs/experts/) program for providing GCP credits that supported the experiments. 
+
+## Paper citation
+
+```
+@misc{berthelot2021adamatch,
+      title={AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation}, 
+      author={David Berthelot and Rebecca Roelofs and Kihyuk Sohn and Nicholas Carlini and Alex Kurakin},
+      year={2021},
+      eprint={2106.04732},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
