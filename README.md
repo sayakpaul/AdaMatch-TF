@@ -12,7 +12,7 @@ All the models are trained on MNIST as the source domain and evaluated on the SV
           
 | With AdaMatch 	| Without AdaMatch 	|
 |:-------------:	|:----------------:	|
-|     29.59%    	|       7.20%      	|
+|     11%    	|       7.20%      	|
 
 ## Acknowledgements
 
